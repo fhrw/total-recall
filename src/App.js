@@ -1,8 +1,7 @@
-import logo from "./logo.svg";
-import "./App.css";
+import Eleven76 from "./Eleven76";
 
 function App() {
-  return <div>Hello World</div>;
+  return <Eleven76 />;
 }
 
 export default App;
